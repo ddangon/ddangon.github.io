@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "C언어 파일타입"
 ---
 
